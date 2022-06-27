@@ -16,7 +16,7 @@ This is a classic problem given in technical interviews. First solve the problem
 
 Include comments for each step of your script explaining the Pseudo code/what each line is doing.
 
-After you have solved it, write a second version of your script using list comprehensions
+After you have solved it, write a second version of your script using list comprehension.
 
 -------------------------------------------------------------------------------------------------
 
