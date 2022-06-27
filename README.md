@@ -1,12 +1,11 @@
 # comprehension-excercises
 
 Github:
--Fork this repository
--Clone the repository to your local computer
--Create a new branch named in the following format:
-  -firstname-lastname-solution
--Push the new branch back to your repository
--Create a new pull request so I can review your answer
+<li>Fork this repository</li>
+<li>Clone the repository to your local computer</li>
+<li>Create a new branch named in the following format: firstname-lastname-solution</li>
+<li>Push the new branch back to your repository</li>
+<li>Create a new pull request so I can review your answer</li>
 
 -------------------------------------------------------------------------------------------------
 Problem 1
